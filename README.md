@@ -5,7 +5,7 @@ Este proyecto es un clon de la página de inicio de [Dribbble](https://dribbble.
 
 
 ## Descripción
-![enter image description here]([https://cesargvna.github.io/project-dribbble/assets/page-index.png](https://github.com/cesargvna/project-dribbble/blob/main/assets/page-index.png))
+![enter image description here](https://raw.githubusercontent.com/cesargvna/project-dribbble/main/assets/page-index.png)
 Este proyecto recrea la landing page de Dribbble con un enfoque en el diseño limpio y moderno. Utiliza solo HTML y CSS vanilla para estructurar y estilizar la página, mostrando cómo se pueden crear páginas web visualmente atractivas sin depender de librerías o frameworks de terceros.
 
 ## Tecnologías
